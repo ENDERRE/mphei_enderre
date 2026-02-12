@@ -1,0 +1,5 @@
+C:/Users/ilyak/Desktop/АиСД/build/CMakeFiles/table.dir
+C:/Users/ilyak/Desktop/АиСД/build/CMakeFiles/global.dir
+C:/Users/ilyak/Desktop/АиСД/build/CMakeFiles/Lab3a.dir
+C:/Users/ilyak/Desktop/АиСД/build/CMakeFiles/edit_cache.dir
+C:/Users/ilyak/Desktop/АиСД/build/CMakeFiles/rebuild_cache.dir

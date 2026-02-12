@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g CMakeFiles/Lab3b.dir/lab3b.c.o -o Lab3b  libtable.a libglobal.a -lreadline 

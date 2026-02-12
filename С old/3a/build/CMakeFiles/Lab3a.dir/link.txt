@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g CMakeFiles/Lab3a.dir/Lab3.c.o -o Lab3a  -Wl,-rpath,/home/honor_linux/aisd2024/3a/build libtable.so libglobal.so -lreadline 

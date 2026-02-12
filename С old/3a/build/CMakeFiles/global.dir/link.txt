@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -Wall -Wextra -g -shared -Wl,-soname,libglobal.so -o libglobal.so CMakeFiles/global.dir/global.c.o 

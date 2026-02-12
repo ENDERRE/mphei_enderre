@@ -1,0 +1,5 @@
+/mnt/c/Users/Thunderobot/OneDrive/Рабочий стол/МЭИ/mpheilab/еуые/build/CMakeFiles/table.dir
+/mnt/c/Users/Thunderobot/OneDrive/Рабочий стол/МЭИ/mpheilab/еуые/build/CMakeFiles/global.dir
+/mnt/c/Users/Thunderobot/OneDrive/Рабочий стол/МЭИ/mpheilab/еуые/build/CMakeFiles/Lab5.dir
+/mnt/c/Users/Thunderobot/OneDrive/Рабочий стол/МЭИ/mpheilab/еуые/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Thunderobot/OneDrive/Рабочий стол/МЭИ/mpheilab/еуые/build/CMakeFiles/rebuild_cache.dir

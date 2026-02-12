@@ -1,0 +1,2 @@
+C:/Users/ilyak/gcc/bin/ar.exe qc libglobal.a CMakeFiles/global.dir/global.c.obj
+C:/Users/ilyak/gcc/bin/ranlib.exe libglobal.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtree.a CMakeFiles/tree.dir/tree_f.c.o
+/usr/bin/ranlib libtree.a

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g CMakeFiles/Lab5.dir/main.c.o -o Lab5  libtable.a libglobal.a -lreadline

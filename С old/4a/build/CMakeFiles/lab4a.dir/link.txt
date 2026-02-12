@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g CMakeFiles/lab4a.dir/main.c.o -o lab4a  libtree.a libglobal.a -lreadline 

@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/ilyak/Desktop/АиСД/build",
+  "command": "c:/users/ilyak/gcc/bin/gcc.exe    -Wall -Wextra -g -g -o CMakeFiles/table.dir/table_g.c.obj -c C:/Users/ilyak/Desktop/АиСД/3a/table_g.c",
+  "file": "C:/Users/ilyak/Desktop/АиСД/3a/table_g.c",
+  "output": "CMakeFiles/table.dir/table_g.c.obj"
+},
+{
+  "directory": "C:/Users/ilyak/Desktop/АиСД/build",
+  "command": "c:/users/ilyak/gcc/bin/gcc.exe    -Wall -Wextra -g -g -o CMakeFiles/table.dir/table_i.c.obj -c C:/Users/ilyak/Desktop/АиСД/3a/table_i.c",
+  "file": "C:/Users/ilyak/Desktop/АиСД/3a/table_i.c",
+  "output": "CMakeFiles/table.dir/table_i.c.obj"
+},
+{
+  "directory": "C:/Users/ilyak/Desktop/АиСД/build",
+  "command": "c:/users/ilyak/gcc/bin/gcc.exe    -Wall -Wextra -g -g -o CMakeFiles/table.dir/table_out.c.obj -c C:/Users/ilyak/Desktop/АиСД/3a/table_out.c",
+  "file": "C:/Users/ilyak/Desktop/АиСД/3a/table_out.c",
+  "output": "CMakeFiles/table.dir/table_out.c.obj"
+},
+{
+  "directory": "C:/Users/ilyak/Desktop/АиСД/build",
+  "command": "c:/users/ilyak/gcc/bin/gcc.exe    -Wall -Wextra -g -g -o CMakeFiles/table.dir/tablets.c.obj -c C:/Users/ilyak/Desktop/АиСД/3a/tablets.c",
+  "file": "C:/Users/ilyak/Desktop/АиСД/3a/tablets.c",
+  "output": "CMakeFiles/table.dir/tablets.c.obj"
+},
+{
+  "directory": "C:/Users/ilyak/Desktop/АиСД/build",
+  "command": "c:/users/ilyak/gcc/bin/gcc.exe    -Wall -Wextra -g -g -o CMakeFiles/table.dir/table_d.c.obj -c C:/Users/ilyak/Desktop/АиСД/3a/table_d.c",
+  "file": "C:/Users/ilyak/Desktop/АиСД/3a/table_d.c",
+  "output": "CMakeFiles/table.dir/table_d.c.obj"
+},
+{
+  "directory": "C:/Users/ilyak/Desktop/АиСД/build",
+  "command": "c:/users/ilyak/gcc/bin/gcc.exe    -Wall -Wextra -g -g -o CMakeFiles/global.dir/global.c.obj -c C:/Users/ilyak/Desktop/АиСД/3a/global.c",
+  "file": "C:/Users/ilyak/Desktop/АиСД/3a/global.c",
+  "output": "CMakeFiles/global.dir/global.c.obj"
+},
+{
+  "directory": "C:/Users/ilyak/Desktop/АиСД/build",
+  "command": "c:/users/ilyak/gcc/bin/gcc.exe    -Wall -Wextra -g -g -o CMakeFiles/Lab3a.dir/Lab3.c.obj -c C:/Users/ilyak/Desktop/АиСД/3a/Lab3.c",
+  "file": "C:/Users/ilyak/Desktop/АиСД/3a/Lab3.c",
+  "output": "CMakeFiles/Lab3a.dir/Lab3.c.obj"
+}
+]

@@ -1,0 +1,2 @@
+C:/Users/ilyak/gcc/bin/ar.exe qc libtable.a CMakeFiles/table.dir/table_g.c.obj CMakeFiles/table.dir/table_i.c.obj CMakeFiles/table.dir/table_out.c.obj CMakeFiles/table.dir/tablets.c.obj CMakeFiles/table.dir/table_d.c.obj
+C:/Users/ilyak/gcc/bin/ranlib.exe libtable.a

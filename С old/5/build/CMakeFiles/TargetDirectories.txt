@@ -1,0 +1,5 @@
+/mnt/c/Users/ilyak/Desktop/АиСД/lab5/build/CMakeFiles/graph.dir
+/mnt/c/Users/ilyak/Desktop/АиСД/lab5/build/CMakeFiles/global.dir
+/mnt/c/Users/ilyak/Desktop/АиСД/lab5/build/CMakeFiles/lab5.dir
+/mnt/c/Users/ilyak/Desktop/АиСД/lab5/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ilyak/Desktop/АиСД/lab5/build/CMakeFiles/rebuild_cache.dir

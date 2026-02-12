@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (МИФИ 1 семестр 1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  МИФИ 1 семестр.c
+  МИФИ 1 семестр 1.vcxproj -> C:\Users\ilyak\Desktop\МИФИ ИВТ\МИФИ 1 семестр инфа\x64\Debug\МИФИ 1 семестр.exe

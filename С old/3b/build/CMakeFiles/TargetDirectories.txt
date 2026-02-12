@@ -1,0 +1,5 @@
+/home/honor_linux/aisd2024/3b/Lab3b/build/CMakeFiles/table.dir
+/home/honor_linux/aisd2024/3b/Lab3b/build/CMakeFiles/global.dir
+/home/honor_linux/aisd2024/3b/Lab3b/build/CMakeFiles/Lab3b.dir
+/home/honor_linux/aisd2024/3b/Lab3b/build/CMakeFiles/edit_cache.dir
+/home/honor_linux/aisd2024/3b/Lab3b/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3a-Debug-a57a860b230f748d4caa.json",
+					"name" : "Lab3a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "global::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-global-Debug-ba2262c28c9dc0fd81f4.json",
+					"name" : "global",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "table::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-table-Debug-c6024f237e4267dfcb3a.json",
+					"name" : "table",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ilyak/Desktop/\u0410\u0438\u0421\u0414/build",
+		"source" : "C:/Users/ilyak/Desktop/\u0410\u0438\u0421\u0414/3a"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

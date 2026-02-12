@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\ilyak\Desktop\МИФИ ИВТ\Лабы\Lab4\lab4\lab4\Source.c(18,29): warning C4013: strln: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\ilyak\Desktop\МИФИ ИВТ\Лабы\Lab4\lab4\lab4\Source.c(21,13): warning C4013: mcp: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\ilyak\Desktop\МИФИ ИВТ\Лабы\Lab4\lab4\lab4\Source.c(12,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

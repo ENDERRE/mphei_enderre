@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -Wall -Wextra -g -shared -Wl,-soname,libtable.so -o libtable.so CMakeFiles/table.dir/table_g.c.o CMakeFiles/table.dir/table_i.c.o CMakeFiles/table.dir/table_out.c.o CMakeFiles/table.dir/tablets.c.o CMakeFiles/table.dir/table_d.c.o 
